@@ -1,3 +1,6 @@
+<h1> Seasoned </h1>
+
+<h3> A simple, minimalistic way to plan meals on the go, as well as track your caloric and macronutrient intake </h3>
 
 Inspiration 💡
 
