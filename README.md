@@ -6,6 +6,7 @@
 
 <h3> About </h3>
 
+https://www.youtube.com/watch?v=XmEzmhe3jFs
 
 Inspiration 💡
 
@@ -60,4 +61,5 @@ What's next for Seasoned 🔜
 
 <h2> Tech Demo </h2>
 
-<iframe src="https://www.youtube.com/watch?v=l8OIMJarhjo&embeds_referring_euri=https%3A%2F%2Fdevpost.com%2F&source_ve_path=MjM4NTE&feature=emb_title"></iframe>
+https://www.youtube.com/watch?v=l8OIMJarhjo
+
