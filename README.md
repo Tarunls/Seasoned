@@ -45,3 +45,11 @@ What's next for Seasoned 🔜
     Future implementation of restaurants outside of fast food.
     Proximity, Price, and Preference factors will be included in calculating the most optimal meal plan for the user.
 
+
+<h3> Images: </h3>
+
+<image src="https://res.cloudinary.com/devpost/image/fetch/s--9gcUh47K--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://cdn.discordapp.com/attachments/1170439244649607359/1170777468928532632/Untitled_Artwork.jpg%3Fex%3D655a467c%26is%3D6547d17c%26hm%3D3c9a720b6675a5a73a749b278bf5a5b10efe469005e52fe3b1bddbee596e156f%26"></image>
+
+<image src="https://res.cloudinary.com/devpost/image/fetch/s--Hf_DCvYW--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://cdn.discordapp.com/attachments/1170439244649607359/1170769300366307440/Screenshot_2023-11-05_at_10.46.02_AM.png%3Fex%3D655a3ee1%26is%3D6547c9e1%26hm%3Dab72566fdc5926f0ebe383f8dc3022bd00fd8c1845e16fee798fc52726da0608%26"</image>
+
+
