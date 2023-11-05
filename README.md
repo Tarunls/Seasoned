@@ -2,6 +2,10 @@
 
 <h3> A simple, minimalistic way to plan meals on the go, as well as track your caloric and macronutrient intake </h3>
 
+<h3> About </h3>
+
+<iframe src="https://www.youtube.com/watch?v=XmEzmhe3jFs"></iframe>
+
 Inspiration 💡
 
 Our team was always interested in our health and physical well-being. Working out and staying in shape have always been some of our most important priorities. However, there are times in life when you just aren't able to prepare proper meals or find the best food to fit your life style and dietary/fitness goals.
@@ -48,8 +52,11 @@ What's next for Seasoned 🔜
 
 <h3> Images: </h3>
 
-<image src="https://res.cloudinary.com/devpost/image/fetch/s--9gcUh47K--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://cdn.discordapp.com/attachments/1170439244649607359/1170777468928532632/Untitled_Artwork.jpg%3Fex%3D655a467c%26is%3D6547d17c%26hm%3D3c9a720b6675a5a73a749b278bf5a5b10efe469005e52fe3b1bddbee596e156f%26"></image>
+<image src="https://res.cloudinary.com/devpost/image/fetch/s--9gcUh47K--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://cdn.discordapp.com/attachments/1170439244649607359/1170777468928532632/Untitled_Artwork.jpg%3Fex%3D655a467c%26is%3D6547d17c%26hm%3D3c9a720b6675a5a73a749b278bf5a5b10efe469005e52fe3b1bddbee596e156f%26">
+<image src="https://res.cloudinary.com/devpost/image/fetch/s--Hf_DCvYW--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://cdn.discordapp.com/attachments/1170439244649607359/1170769300366307440/Screenshot_2023-11-05_at_10.46.02_AM.png%3Fex%3D655a3ee1%26is%3D6547c9e1%26hm%3Dab72566fdc5926f0ebe383f8dc3022bd00fd8c1845e16fee798fc52726da0608%26">
 
-<image src="https://res.cloudinary.com/devpost/image/fetch/s--Hf_DCvYW--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://cdn.discordapp.com/attachments/1170439244649607359/1170769300366307440/Screenshot_2023-11-05_at_10.46.02_AM.png%3Fex%3D655a3ee1%26is%3D6547c9e1%26hm%3Dab72566fdc5926f0ebe383f8dc3022bd00fd8c1845e16fee798fc52726da0608%26"</image>
 
 
+<h2> Tech Demo </h2>
+
+<iframe src="https://www.youtube.com/watch?v=l8OIMJarhjo&embeds_referring_euri=https%3A%2F%2Fdevpost.com%2F&source_ve_path=MjM4NTE&feature=emb_title"></iframe>
