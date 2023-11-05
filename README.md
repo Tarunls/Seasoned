@@ -1,10 +1,11 @@
 <h1> Seasoned </h1>
 
+![seasoned](https://cdn.discordapp.com/attachments/1170439244649607359/1170770957271584768/SeasonedLogo.png?ex=655a406c&is=6547cb6c&hm=38f26770c2044b6d57034c7e123896d20c350e2b0a84982898901dd5e29b6b75&)
+
 <h3> A simple, minimalistic way to plan meals on the go, as well as track your caloric and macronutrient intake </h3>
 
 <h3> About </h3>
 
-<iframe src="https://www.youtube.com/watch?v=XmEzmhe3jFs"></iframe>
 
 Inspiration 💡
 
